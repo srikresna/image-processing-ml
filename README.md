@@ -1,12 +1,12 @@
 ## image-processing-machine-learning
-##Overview
+## Overview
 Image Processing is manipulating images to enhance or extract information from them. It then makes predictions about a similar image. 
 
 
-##Usage
+## Usage
 Open jupyter notebook & run '.ipynb' file
 
-##Dependencies
+## Dependencies
 Import following library :
 Tensorflow
 Zip
