@@ -1,10 +1,10 @@
 # image-processing-machine-learning
 ## Overview
 Image Processing is manipulating images to enhance or extract information from them. It then makes predictions about a similar image. 
-This project contain 3 notebook :
+This project contains 3 notebooks :
 * Room Detector (Messy or Clean)
-* Rock Paper Scissor Detection
-* Kind of Fish detector
+* Rock Paper Scissor Detector
+* Kind of Fish Detector
 
 
 ## Usage
