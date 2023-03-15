@@ -1,1 +1,9 @@
+tensorflow
+zipfile
+os
+numpy
+matplotlib
+kaggle
+pandas
+scikit-learn
 
